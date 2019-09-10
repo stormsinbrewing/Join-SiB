@@ -1,2 +1,2 @@
 # Github Link
-[KranNaut](https://ww.github.com/KranNaut)
+[KranNaut](https://www.github.com/KranNaut)
