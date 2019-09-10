@@ -49,5 +49,9 @@ $ git commit -m "{username}"
 9. Push your changes to Git
 
 ```
-$ git push -u origin master
+$ git push -u origin {branchname}
 ```
+
+10. Go to GitHub repository Join-SiB on your account
+
+Create a pull request to our Main Repository.
