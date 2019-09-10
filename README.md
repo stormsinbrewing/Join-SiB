@@ -34,5 +34,20 @@ $ git checkout {username}
 [{username}](https://www.github.com/{username})
 ```
 
-7. Create a pull request with your changes.
+7. Stage your changes
 
+```
+$ git add .
+```
+
+8. Commit your changes
+
+```
+$ git commit -m "{username}"
+```
+
+9. Push your changes to Git
+
+```
+$ git push -u origin master
+```
