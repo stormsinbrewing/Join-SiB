@@ -1,1 +1,3 @@
-https://github.com/SpayL
+# GitHub link
+[Payal Singla](https://github.com/SpayL)
+
