@@ -1,1 +1,1 @@
-[sumyak] (https://github.com/sumyak)
+[sumyak](https://github.com/sumyak)
