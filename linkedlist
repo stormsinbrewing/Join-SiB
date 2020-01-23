@@ -1,0 +1,24 @@
+class ll
+{
+int data;
+ll * add;
+}
+int main()
+{
+ll *head = NULL;
+push(&head,4);
+}
+void push(ll**headref,int newdata)
+{
+ll*newnode= new (*newnode);
+newnode->data=newdata;
+newnode->add=*headref;
+*headref=newnode;
+}
+void delete(ll**headref)
+{
+ll*head=*headref;
+ll*add;
+while(head!=NULL)
+{
+}}
